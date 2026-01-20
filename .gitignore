@@ -1,29 +1,4 @@
-# Ignore node modules
 node_modules/
-
-# Ignore build output
-build/
-
-# Ignore dependency directories
 dist/
-.dist/
-
-# Ignore environment variables
+build/
 .env
-.env.local
-.env.*.local
-
-# Ignore OS files
-.DS_Store
-Thumbs.db
-
-# Ignore IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Ignore cache directories
-.cache/
-.eslintcache
